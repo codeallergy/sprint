@@ -3,10 +3,10 @@ module github.com/codeallergy/sprint
 go 1.17
 
 require (
-	github.com/codeallergy/glue v1.0.1
+	github.com/codeallergy/glue v1.0.2
 	github.com/codeallergy/sprintpb v1.0.0
-	github.com/codeallergy/store v1.0.0
-	github.com/codeallergy/uuid v1.0.0
+	github.com/codeallergy/store v1.0.1
+	github.com/codeallergy/uuid v1.0.1
 	go.uber.org/zap v1.24.0
 	golang.org/x/crypto v0.6.0
 	google.golang.org/grpc v1.53.0
